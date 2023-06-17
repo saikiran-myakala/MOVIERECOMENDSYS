@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-IMDbPY
-=======
 IMDbPY
 streamlit_option_menu
->>>>>>> b7e6433 (Initial commit)
